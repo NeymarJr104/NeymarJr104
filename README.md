@@ -44,16 +44,6 @@
 
 ---
 
-## 💼 Experience
-
-**Frontend Developer Intern – Jaculus Technologies Pvt. Ltd., Ahmednagar** *(Jan 2026 – Feb 2026)*
-- Developed responsive web interfaces using React.js with improved workflow navigation and accessibility
-- Integrated REST APIs for frontend-backend communication and implemented session-based functionalities
-- Collaborated with backend and design teams in an agile development environment
-- Performed debugging, testing, and optimization for application performance and reliability
-
----
-
 ## 📌 Featured Projects
 
 ### 🔹 **PromptBook – AI-Powered RAG System**
@@ -72,20 +62,11 @@
 
 ---
 
-## 📜 Certifications
+## 📈 LeetCode Stats
 
-- 🐍 **Python** – HackerRank *(Aug 2023)*
-- 🤖 **Machine Learning A-Z: AI & Python** – Udemy *(Oct 2025)*
-- 🗄️ **SQL (Intermediate)** – HackerRank *(Jun 2025)*
-- 🍃 **MongoDB** – MongoDB University *(Nov 2025)*
-
----
-
-## 🎓 Education
-
-- **Bachelor of Engineering – Computer Engineering**, Pimpri Chinchwad College of Engineering & Research *(Present)*
-- **Higher Secondary Certificate (HSC)**, Chate Junior College *(Feb 2022)*
-- **Secondary School Certificate (SSC)**, New Model English School — Score: 94.40% *(Mar 2020)*
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/NeymarJr104?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
